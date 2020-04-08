@@ -4,8 +4,6 @@
 .Ruserdata
 .DS_Store
 .Rbuildignore
-NEWS.html
-README.html
 _pkgdown.yaml
 hakaiR.Rproj
 img.png
