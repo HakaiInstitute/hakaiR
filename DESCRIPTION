@@ -1,0 +1,30 @@
+Package: hakaiR
+Type: Package
+Title: An R package for Hakairs
+Version: 0.0.1
+Date: 2020-04-07
+Authors@R:c(
+    person("Brett", "Johnson", email = "Brett.Johnson@hakai.org",
+                  role = c("aut", "cre")
+                  )
+                  ) 
+Description: This package contains functions and templates for Hakai Institute Data Scientists.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Imports:
+    tidyverse (>= 1.2.1),
+    lubridate (>= 1.7.1),
+    car (>= 3.0),
+    magrittr (>= 1.0),
+    crayon (>= 1.3),
+    forcats (>= 0.5.0),
+    ggplot2 (>= 3.3.0)
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 2.1.0)
+VignetteBuilder: knitr
+URL: https://github.com/HakaiInstitute/hakair
+BugReports: https://github.com/HakaiInstitute/hakair/issues
