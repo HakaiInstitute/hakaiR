@@ -20,6 +20,4 @@ In the R-Studio console run the following two lines of code:
 
 `devtools::install_github("HakaiInstitute/hakair")`
 
-
-
-
+This package might one day be really cool.
