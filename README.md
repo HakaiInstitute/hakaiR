@@ -7,7 +7,6 @@ The purpose of this package is to:
 * facilitate collaborative development of custom functions for summarizing and analyzing Hakai data;
 * produce versioned sets of data and functions to ensure analytical reproducibility;
 * serve as a formal framework for open science data sharing, collaboration, and contribution;
-* Hakai will be brought together as a data analyzing machine
 
 As new articles and functions are available, this package will be updated and new versions will be released. Check back to see if the package is updated before starting or finalizing an analysis. In the Changelog section of this website you can find release notes about changes to the package functions and data.
 
