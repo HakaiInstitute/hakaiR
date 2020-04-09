@@ -21,8 +21,12 @@ In the R-Studio console run the following two lines of code:
 `devtools::install_github("HakaiInstitute/hakair")`
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+This package might one day be really cool.
+>>>>>>> f641f941e4ce39029d968b68777bc9c93d918544
 =======
 Use at your own risk!!!!!!!!!!!!!!!!!!!!!
 >>>>>>> 2cb60bb391a83f77fb79bead711c5222cc2871e9
@@ -39,4 +43,8 @@ Use at your own risk!!!!!!!!!!!!!!!!!!!!!
 
 ## Workshop
 
+
 Very useful comment :)
+=======
+>>>>>>> 2cb60bb391a83f77fb79bead711c5222cc2871e9
+>>>>>>> f641f941e4ce39029d968b68777bc9c93d918544
