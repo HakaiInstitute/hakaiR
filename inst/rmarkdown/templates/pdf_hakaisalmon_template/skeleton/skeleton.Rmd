@@ -1,5 +1,5 @@
 ---
-title: "Hakai Institute Juvenile Salmon Program Report"
+title: "Hakai Institute Report"
 output:
   rmarkdown::pdf_document:
     
@@ -18,12 +18,12 @@ header-includes:
 
 \begin{center}
 \large
-— Hakai Institute Juvenile Salmon Program —
+— Hakai Institute—
 \end{center}
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(include = FALSE)
-library(hakaisalmon)
+library(hakaiR)
 library(tidyverse)
 options(scipen=999) # This removes scientific notation for inline output ie `r object` in the report text
 ```
