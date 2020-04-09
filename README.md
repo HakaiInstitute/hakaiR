@@ -48,3 +48,8 @@ Very useful comment :)
 =======
 >>>>>>> 2cb60bb391a83f77fb79bead711c5222cc2871e9
 >>>>>>> f641f941e4ce39029d968b68777bc9c93d918544
+=======
+This package might one day be really cool.
+
+Use at your own risk!!!!!!!!!!!!!!!!!!!!!
+>>>>>>> 5ed059b75f80aae0e988e3f05d5daeec406505d0
