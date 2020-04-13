@@ -4,7 +4,11 @@
 #'
 #' @export
 hakai_palettes <- list(
-  hakai_web = c("#A42820", "#5F5647", "#9B110E", "#3F5151", "#4E2A1E", "#550307", "#0C1707"),
+  hakai_web = c("#78b6aa",
+    "#f6a501",
+                "#aa1f25",
+                "#a58457",
+                "#346257"),
   Zissou1 = c("#3B9AB2", "#78B7C5", "#EBCC2A", "#E1AF00", "#F21A00"),
   Darjeeling1 = c("#FF0000", "#00A08A", "#F2AD00", "#F98400", "#5BBCD6")
 )

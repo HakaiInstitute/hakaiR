@@ -1,11 +1,8 @@
-#' .onAttach
-libname <- "hakaiR"
+#' .onAttachs
 pkgname <- "hakaiR"
 .onAttach <-function(libname, pkgname) {
   packageStartupMessage(c(cat(crayon::bgRed("Hakai")),
-                          cat(crayon::bold(" Automated Knowledge and Insights in R \n")),
-                          cat(crayon::bold("Successfully loaded ")),
-                          cat(crayon::red("hakaiR package \n"))
+                          cat(crayon::bold(" automated knowledge and integration in R \n"))
                           )
   )
   my_theme <- ggplot2::theme_gray(base_size = 14)
