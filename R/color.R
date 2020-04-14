@@ -7,17 +7,23 @@ hakai_palettes <- list(
   hakai_web = c(
     "#346257",
     "#a58457",
-    "#aa1f25",
-    "#f6a501",
-    "#78b6aa"),
+    "#d12400",
+    "#78b6aa",
+    "#1d57d5",
+    "#40b55e",
+    "#60097f",
+    "#f4dd59",
+    "#ed7744"
+    ),
   Zissou1 = c("#3B9AB2", "#78B7C5", "#EBCC2A", "#E1AF00", "#F21A00"),
-  hakai_salmon = c( "#d12400",
-                         "pink",
-                        "#346257",
-                        "#4f7482",
-                        "#fbd356"),
+  hakai_salmon = c( "#d12400",# Sockeye
+                         "pink",# Pink
+                        "#346257",# Chum
+                        "#4f7482", # Coho
+                        "#fbd356"),# Herring. TODO: Need Chinook colour!
   Darjeeling1 = c("#FF0000", "#00A08A", "#F2AD00", "#F98400", "#5BBCD6")
 )
+
 
 #' A Hakai Institute palette generator
 #'
