@@ -1,4 +1,4 @@
-#' A Hakai theme for ggplot2 for hakademics
+#' A Hakai theme for ggplot2
 #'
 #'
 #' @param base_size Base size

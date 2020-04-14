@@ -2,7 +2,7 @@
 % Please edit documentation in R/hakademic_theme.R
 \name{hakademic_theme}
 \alias{hakademic_theme}
-\title{A Hakai theme for ggplot2 for hakademics}
+\title{A Hakai theme for ggplot2}
 \usage{
 hakademic_theme(base_size = 14, base_family = "")
 }
@@ -12,7 +12,7 @@ hakademic_theme(base_size = 14, base_family = "")
 \item{base_family}{Base family}
 }
 \description{
-A Hakai theme for ggplot2 for hakademics
+A Hakai theme for ggplot2
 }
 \examples{
 p <- ggplot2::ggplot(mtcars) +
