@@ -18,7 +18,7 @@ In the R-Studio console run the following two lines of code:
 
 `install.packages("devtools")`
 
-`devtools::install_github("HakaiInstitute/hakair")`
+`devtools::install_github("HakaiInstitute/hakaiR")`
 
 
 This package might one day be really cool.
