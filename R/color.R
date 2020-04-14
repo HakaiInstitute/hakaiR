@@ -11,6 +11,11 @@ hakai_palettes <- list(
     "#f6a501",
     "#78b6aa"),
   Zissou1 = c("#3B9AB2", "#78B7C5", "#EBCC2A", "#E1AF00", "#F21A00"),
+  hakai_salmon = c( "#d12400",
+                         "pink",
+                        "#346257",
+                        "#4f7482",
+                        "#fbd356"),
   Darjeeling1 = c("#FF0000", "#00A08A", "#F2AD00", "#F98400", "#5BBCD6")
 )
 
