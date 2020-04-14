@@ -5,6 +5,5 @@ pkgname <- "hakaiR"
                           cat(crayon::bold(" automated knowledge and integration in R \n"))
                           )
   )
-  my_theme <- ggplot2::theme_gray(base_size = 14)
-  ggplot2::theme_set(my_theme)
+  #ggplot2::theme_set(hakaiR::hakademic_theme)
 }
