@@ -5,9 +5,8 @@
 #' @export
 hakai_palettes <- list(
   hakai_web = c(
-    "#346257",
     "#a58457",
-    "#d12400",
+    "#B60C0F",
     "#78b6aa",
     "#1d57d5",
     "#40b55e",
@@ -16,10 +15,10 @@ hakai_palettes <- list(
     "#ed7744"
     ),
   Zissou1 = c("#3B9AB2", "#78B7C5", "#EBCC2A", "#E1AF00", "#F21A00"),
-  hakai_salmon = c( "#d12400",# Sockeye
+  hakai_salmon = c( "#B60C0F",# Sockeye
                          "pink",# Pink
-                        "#346257",# Chum
                         "#4f7482", # Coho
+                        "#D55E00",
                         "#fbd356"),# Herring. TODO: Need Chinook colour!
   Darjeeling1 = c("#FF0000", "#00A08A", "#F2AD00", "#F98400", "#5BBCD6")
 )
