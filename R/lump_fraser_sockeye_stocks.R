@@ -18,7 +18,7 @@ lump_fraser_sockeye_stocks <- function(stock_1) {
                           Nadina_Gates_Bowron_Nahatlatch = c("NADINA", "GATES_CR", "BOWRON",
                                                              "NAHATLATCH"),
                           Early_Thompson = c("SEYMOUR", "SCOTCH", "EAGLE", "U_ADAMS", "CAYENNE",
-                                             "FENNEL", "EARLY THOMPSON"),
+                                             "FENNELL", "EARLY THOMPSON"),
                           Harrison_Widgeon = c("HARRISON", "WIDGEON_SLOUGH"),
                           Late_Stuart_Stellako = c("MIDDLE", "PINCHI_CR", "TACHIE", "STELLAKO",
                                                    "KUZKWA_CR", "LATE STUART"),
