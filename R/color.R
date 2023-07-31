@@ -19,7 +19,8 @@ hakai_palettes <- list(
                          "pink",# Pink
                         "#4f7482", # Coho
                         "#D55E00",
-                        "#fbd356"),# Herring. TODO: Need Chinook colour!
+                        "#fbd356",
+                    "#60097f"),# Herring. TODO: Need Chinook colour!
   Darjeeling1 = c("#FF0000", "#00A08A", "#F2AD00", "#F98400", "#5BBCD6")
 )
 
